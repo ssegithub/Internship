@@ -1,0 +1,526 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div class="bg">
+
+        <nav class="navbar navbar-expand-lg navbar-light bg-transparent">
+            <img src="https://cdn.prod.website-files.com/64362e90abbff481a6d25ce8/64362e90abbff4d11fd25fa9_Frame%201000003044%20(2).svg" class="w-25 m-4" />
+        </nav>
+
+        <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <h1 class="heading1 p-5">A CEO at <img src="https://cdn.prod.website-files.com/64362e90abbff481a6d25ce8/64362e90abbff44006d25f7f_Frame%201000002982.svg" /> </br> Teaches you about the </br> lacing <span class="span1">interviews</span></h1>
+                </div>
+                <div class="carousel-item">
+                    <h1 class="heading1 p-5">A CEO at <img src="https://cdn.prod.website-files.com/64362e90abbff481a6d25ce8/64362e90abbff4e82fd25f85_Msys.svg" /> </br> Teaches you about the </br> lacing <span class="span1">interviews</span></h1>
+                </div>
+                <div class="carousel-item">
+                    <h1 class="heading1 p-5">A CEO at <img src="https://cdn.prod.website-files.com/64362e90abbff481a6d25ce8/64362e90abbff483f9d25f89_Frame%201000002924%20(1).svg" /> </br> Teaches you about the </br> <span class="span1">Entrepreneurship</span></h1>
+                </div>
+            </div>
+
+
+            <a href="#AccessSection"><button class="butt ml-5 mb-3 mt-3">Claim free access</button></a> </br>
+            <button class="butt2 ml-5 mb-5 mt-2">Watch Trailer</button>
+
+            <h1 class="heading2 p-3 ml-5 mt-2">Get 1 podcost worth <span class="span3">$2000</span> <span class="span2">Free</span></h1>
+        </div>
+    </div>
+
+
+
+
+    <div class="bg2">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h1 class="heading3 mt-5">Our Speakers Come From </br>
+                        Your Dream Companies</h1>
+                </div>
+
+                <div class="col-4 col-md-4 col-lg-2">
+                    <img src="https://static.cdnlogo.com/logos/g/53/google.png" class="w-100" />
+                </div>
+
+                <div class="col-4 col-md-4 col-lg-2">
+                    <img src="https://static.cdnlogo.com/logos/m/18/microsoft.svg" class="w-100" />
+                </div>
+
+                <div class="col-4 col-md-4 col-lg-2">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcERBoRE-B2ewK-mt0j-9pZ3g1ZOc9sHSPGcSwQ-PFccsJcescUApTnuLcbg3R-TmaoG0&usqp=CAU" class="w-100 mt-2" />
+                </div>
+
+
+                <div class="col-4 col-md-4 col-lg-2">
+                    <img src="https://logowik.com/content/uploads/images/meesho5755.jpg" class="w-100 mt-2 ml-2" />
+                </div>
+
+                <div class="col-4 col-md-4 col-lg-2">
+                    <img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/03/apple_logo-freelogovectors.net_-1.png" class="w-100 mt-1" />
+                </div>
+
+
+
+                <div class="col-4 col-md-4 col-lg-2">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWuWQuwg5mFEKAyXNZ5tG1YYhL3gKSUVehgw&s" class="w-100  " />
+                </div>
+
+
+
+                <div class="col-4 col-md-4 col-lg-2">
+                    <img src="https://i.pinimg.com/originals/89/0c/25/890c250fe129488a586b1a99e8b68107.png" class="w-100  " />
+                </div>
+
+
+                <div class="col-4 col-md-4 col-lg-2">
+                    <img src="https://www.wipro.com/content/dam/nexus/en/brand/images/secondary-logo-400x276.png" class="w-100 mt-4 " />
+                </div>
+
+
+                <div class="col-4 col-md-4 col-lg-2">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROwRZXLkkd00wFXnpyZgz0R21AwHyFj0yRgVOnIs5PLZEVSQ84A0zZU8fAFyN-2KaxHCA&usqp=CAU" class="w-100 mt-4 " />
+                </div>
+
+
+                <div class="col-4 col-md-4 col-lg-2">
+                    <img src="https://logowik.com/content/uploads/images/flipkart.jpg" class="w-100 mt-4 " />
+                </div>
+
+
+                <div class="col-4 col-md-4 col-lg-2">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYYy9KPCIUzyfJj8fApdKJybD2nMrTvz0rvj5D53RP7R_xBfPb2kL0slyQfGjns-Mbirk&usqp=CAU" class="w-100 mt-3  ml-2" />
+                </div>
+
+
+                <div class="col-4 col-md-4 col-lg-2">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQlMAWscngeBug2yriWE3vQ3IsyDHtkQ0FYw&s" class="w-100 mt-4  ml-2" />
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+    <div class="bg3 ">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h1 class="heading4 mt-5"> A Rare Collection of Insider </br> Knowledge, All Yours!</h1>
+                    <h1 class="heading5 mt-4">All secrets uncovered. Exclusive insights,
+                        Timely Advice and Personal Growth </br> Journeys straight from the tech experts.</h1>
+                    <div class="cen mt-5">
+                        <button class="butt3 "><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="orange" class="bi bi-fire" viewBox="0 0 16 16">
+                                <path d="M8 16c3.314 0 6-2 6-5.5 0-1.5-.5-4-2.5-6 .25 1.5-1.25 2-1.25 2C11 4 9 .5 6 0c.357 2 .5 4-2 6-1.25 1-2 2.729-2 4.5C2 14 4.686 16 8 16m0-1c-1.657 0-3-1-3-2.75 0-.75.25-2 1.25-3C6.125 10 7 10.5 7 10.5c-.375-1.25.5-3.25 2-3.5-.179 1-.25 2 1 3 .625.5 1 1.364 1 2.25C11 14 9.657 15 8 15" />
+                            </svg>Trending</button>
+                        <button class="butt4 ml-3 mb-3">All</button>
+                        <button class="butt4 ml-3 mb-3">Tech</button>
+                        <button class="butt4 ml-3 mb-3">Career</button>
+                        <button class="butt4 ml-3 mb-3">CXO</button>
+                        <button class="butt5 ml-3 mb-3">Productivity</button>
+                        <button class="butt4 ml-3 mb-3">GSOC</button>
+                        <button class="butt4 ml-3 mb-3">Panel</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                <div class="col-6 col-lg-3">
+                    <div class="card mt-5" style="width: 15rem;">
+                        <img src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/podcast/rare-collection-of-insider-knowledge/sandeep.png" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">An Engineering Manager at Uber Teaches the Programming</h5>
+                            <h1 class="hh "><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-clock-fill mr-1 " viewBox="0 0 16 16">
+                                    <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0M8 3.5a.5.5 0 0 0-1 0V9a.5.5 0 0 0 .252.434l3.5 2a.5.5 0 0 0 .496-.868L8 8.71z" />
+                                </svg>45:17 Mins</h1>
+                            <h1 class="hh2 mt-1">Sandeep Gorthi</h1>
+                            <h1 class="hh3">Engineering Manager at Uber</h1>
+
+                            <a href="#" class="hh4">What you will learn<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right-short ml-1" viewBox="0 0 16 16">
+                                    <path fill-rule="evenodd" d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8" />
+                                </svg></a>
+                        </div>
+                    </div>
+                </div>
+
+
+
+
+                <div class="col-6 col-lg-3">
+                    <div class="card mt-5" style="width: 15rem;">
+                        <img src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/podcast/rare-collection-of-insider-knowledge/pritesh.png" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">A Sr. Recruiter at Amazon company Teaches Acing Interviews</h5>
+                            <h1 class="hh "><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-clock-fill mr-1 " viewBox="0 0 16 16">
+                                    <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0M8 3.5a.5.5 0 0 0-1 0V9a.5.5 0 0 0 .252.434l3.5 2a.5.5 0 0 0 .496-.868L8 8.71z" />
+                                </svg>41.07 Mins</h1>
+                            <h1 class="hh2 mt-1">Pritesh Malode</h1>
+                            <h1 class="hh3">Senior Recruiter at Amazon</h1>
+
+                            <a href="#" class="hh4">What you will learn<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right-short ml-1" viewBox="0 0 16 16">
+                                    <path fill-rule="evenodd" d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8" />
+                                </svg></a>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col-6 col-lg-3">
+                    <div class="card mt-5" style="width: 15rem;">
+                        <img src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/podcast/rare-collection-of-insider-knowledge/sanjay.png" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">A Global CEO Teaches Mastering the Time Management</h5>
+                            <h1 class="hh "><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-clock-fill mr-1 " viewBox="0 0 16 16">
+                                    <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0M8 3.5a.5.5 0 0 0-1 0V9a.5.5 0 0 0 .252.434l3.5 2a.5.5 0 0 0 .496-.868L8 8.71z" />
+                                </svg>56:32 Mins</h1>
+                            <h1 class="hh2 mt-1">Sanjay Sehgal</h1>
+                            <h1 class="hh3">Chairman & CEO at Msys Technologies</h1>
+
+                            <a href="#" class="hh4">What you will learn<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right-short ml-1" viewBox="0 0 16 16">
+                                    <path fill-rule="evenodd" d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8" />
+                                </svg></a>
+                        </div>
+                    </div>
+                </div>
+
+
+
+                <div class="col-6 col-lg-3">
+                    <div class="card mt-5" style="width: 15rem;">
+                        <img src="data:image/jpeg;base64,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" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">CTO teaches gaining soft skills for successfully rapidly advance in careers.</h5>
+                            <h1 class="hh "><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-clock-fill mr-1 " viewBox="0 0 16 16">
+                                    <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0M8 3.5a.5.5 0 0 0-1 0V9a.5.5 0 0 0 .252.434l3.5 2a.5.5 0 0 0 .496-.868L8 8.71z" />
+                                </svg>56:29 Mins</h1>
+                            <h1 class="hh2 mt-1">Siva Kumar</h1>
+                            <h1 class="hh3">A Chief technology officer at slice company</h1>
+
+                            <a href="#" class="hh4">What you will learn<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right-short ml-1" viewBox="0 0 16 16">
+                                    <path fill-rule="evenodd" d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8" />
+                                </svg></a>
+                        </div>
+                    </div>
+                </div>
+
+
+
+            </div>
+        </div>
+        <div class="cen">
+            <a href="#AccessSection"><button class="butt ml-5 mb-3 mt-3">Claim free access</button></a>
+            <h1 class="heading2 p-3 ml-5 ">Get 1 podcost worth <span class="span3">$2000</span> <span class="span2">Free</span></h1>
+        </div>
+    </div>
+
+
+
+
+    <div class="bg4">
+        <div class="conatiner">
+            <div class="row">
+                <div class="col-12">
+                    <h1 class="heading4 mt-5">Students Say,</br>
+                        It’s a Blockbuster!</h1>
+                    <div class="cen">
+                        <button class="butt6 mt-3"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="orange" class="bi bi-emoji-grin-fill mr-2" viewBox="0 0 16 16">
+                                <path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16M6.488 7c-.23-.598-.661-1-1.155-1-.493 0-.924.402-1.155 1A2.8 2.8 0 0 1 4 6c0-1.105.597-2 1.333-2 .737 0 1.334.895 1.334 2 0 .364-.065.706-.179 1m5.334 0c-.23-.598-.662-1-1.155-1-.494 0-.925.402-1.155 1a2.8 2.8 0 0 1-.179-1c0-1.105.597-2 1.334-2C11.403 4 12 4.895 12 6c0 .364-.065.706-.178 1M2.696 8.756a.48.48 0 0 1 .382-.118C4.348 8.786 6.448 9 8 9c1.553 0 3.653-.214 4.922-.362a.48.48 0 0 1 .383.118.3.3 0 0 1 .096.29c-.09.47-.242.921-.445 1.342-.263.035-.576.075-.929.115A37 37 0 0 1 8 10.75c-1.475 0-2.934-.123-4.027-.247-.353-.04-.666-.08-.93-.115A5.5 5.5 0 0 1 2.6 9.045a.3.3 0 0 1 .097-.29ZM8 13.5a5.49 5.49 0 0 1-4.256-2.017l.116.014c1.115.126 2.615.253 4.14.253s3.025-.127 4.14-.253l.117-.014A5.49 5.49 0 0 1 8 13.5" />
+                            </svg>2500+ Happy Feedbacks</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="container d-flex justify-content-center mt-3  ">
+            <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <div class="shadow card1 p-2 mt-3 mb-5" style="width: 33rem;">
+                            <div class="d-flex flex-row">
+                                <div>
+                                    <img src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/podcast/student-testimonials/rahul-gunturi-linkedin-profile-pic.png" class="img1" />
+                                </div>
+                                <div>
+                                    <h1 class="hh5 ml-2">Rahul Guturi.1st</h1>
+                                    <h1 class="hh6 ml-2">Fellow at CCBP 4.0 academy | NxtWave </h1>
+                                    <p class="card-title ml-2">The podcast with Sanjay Sehgal, CEO of MSys Technologies, is the best and incredibly valuable. I took nine pages of notes and .<a href="#">Read more on linkedin</a></p>
+                                </div>
+                            </div>
+
+
+                        </div>
+
+
+                    </div>
+                    <div class="carousel-item">
+                        <div class="shadow card1 p-2 mt-3 mb-5" style="width:33rem;">
+                            <div class="d-flex flex-row">
+                                <div>
+                                    <img src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/podcast/student-testimonials/sai-rohith-linkedin-profile-pic.png" class="img1" />
+                                </div>
+                                <div>
+                                    <h1 class="hh5 ml-2">Sai rohith</h1>
+                                    <h1 class="hh6 ml-2">Fellow at CCBP 4.0 academy | NxtWave </h1>
+                                    <p class="card-title ml-2">As a CCBP 4.0 Academy student, I feel very lucky that I get access to the knowledge of top-notch experts with ease. Thanks to NxtWave .<a href="#">Read more on linkedin</a></p>
+                                </div>
+                            </div>
+
+
+                        </div>
+
+
+
+                    </div>
+                    <div class="carousel-item">
+                        <div class="shadow card1 p-2 mt-3 mb-5" style="width: 33rem;">
+                            <div class="d-flex flex-row">
+                                <div>
+                                    <img src="https://nxtwave-website-media-files.s3.ap-south-1.amazonaws.com/ccbp-website/podcast/student-testimonials/neha-panakanapalli-linkedin-profile-pic.png" class="img1" />
+                                </div>
+                                <div>
+                                    <h1 class="hh5 ml-2">Neha Panakanapalli. 1st</h1>
+                                    <h1 class="hh6 ml-2">Fellow at CCBP 4.0 academy | NxtWave </h1>
+                                    <p class="card-title ml-2">These podcasts are really special! I started listening from a student perspective and ended up learning the product manager's perspective .<a href="#">Read more on linkedin</a></p>
+                                </div>
+                            </div>
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+    </div>
+
+
+
+
+    <div class="bg3">
+        <div class="conatiner">
+            <div class="row">
+                <div class="col-12">
+                    <div class="ml-5">
+                        <h1 class="heading6 p-5 mt-3">NxtWave's Empowering Podcast Series </br> to Shape your Dream Career</h1>
+                        <h1 class="heading7 ml-5 mt-3"><svg xmlns="http://www.w3.org/2000/svg" width="36" height="26" fill="#08bdc9" class="bi bi-mic-fill mr-2" viewBox="0 0 16 16">
+                                <path d="M5 3a3 3 0 0 1 6 0v5a3 3 0 0 1-6 0z" />
+                                <path d="M3.5 6.5A.5.5 0 0 1 4 7v1a4 4 0 0 0 8 0V7a.5.5 0 0 1 1 0v1a5 5 0 0 1-4.5 4.975V15h3a.5.5 0 0 1 0 1h-7a.5.5 0 0 1 0-1h3v-2.025A5 5 0 0 1 3 8V7a.5.5 0 0 1 .5-.5" />
+                            </svg>100 + Podcast</h1>
+                        <h1 class="heading7 ml-5 mt-5"><svg xmlns="http://www.w3.org/2000/svg" width="36" height="26" fill="#FFD700" class="bi bi-coin mr-2" viewBox="0 0 16 16">
+                                <path d="M5.5 9.511c.076.954.83 1.697 2.182 1.785V12h.6v-.709c1.4-.098 2.218-.846 2.218-1.932 0-.987-.626-1.496-1.745-1.76l-.473-.112V5.57c.6.068.982.396 1.074.85h1.052c-.076-.919-.864-1.638-2.126-1.716V4h-.6v.719c-1.195.117-2.01.836-2.01 1.853 0 .9.606 1.472 1.613 1.707l.397.098v2.034c-.615-.093-1.022-.43-1.114-.9zm2.177-2.166c-.59-.137-.91-.416-.91-.836 0-.47.345-.822.915-.925v1.76h-.005zm.692 1.193c.717.166 1.048.435 1.048.91 0 .542-.412.914-1.135.982V8.518z" />
+                                <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14m0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16" />
+                                <path d="M8 13.5a5.5 5.5 0 1 1 0-11 5.5 5.5 0 0 1 0 11m0 .5A6 6 0 1 0 8 2a6 6 0 0 0 0 12" />
+                            </svg>Each worth $23.69</h1>
+                        <h1 class="heading7 ml-5 mt-5"><svg xmlns="http://www.w3.org/2000/svg" width="36" height="26" fill="#FF8C00" class="bi bi-fire mr-2" viewBox="0 0 16 16">
+                                <path d="M8 16c3.314 0 6-2 6-5.5 0-1.5-.5-4-2.5-6 .25 1.5-1.25 2-1.25 2C11 4 9 .5 6 0c.357 2 .5 4-2 6-1.25 1-2 2.729-2 4.5C2 14 4.686 16 8 16m0-1c-1.657 0-3-1-3-2.75 0-.75.25-2 1.25-3C6.125 10 7 10.5 7 10.5c-.375-1.25.5-3.25 2-3.5-.179 1-.25 2 1 3 .625.5 1 1.364 1 2.25C11 14 9.657 15 8 15" />
+                            </svg>Free for NxtWave Academy</h1>
+
+                        <a href="#AccessSection"><button class="butt ml-5 mb-5 mt-3">Claim free access</button></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div id="AccessSection">
+        <div class="bg4">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 col-md-7">
+                        <h1 class="heading8 mt-5 ml-2 ">Claim Your </br></h1>
+                        <h1 class="heading8 mt-3 ml-2 ">Free Access to a Podcast</h1>
+                    </div>
+
+                    <div class="col-12 col-md-5">
+                        <h1 class="heading9 mt-5">Name</h1>
+                        <button class="butt7 pl-3 mb-3">Your Name</button>
+                        <h1 class="heading9 mt-3">Phone Number</h1>
+                        <button class="butt7 pl-3 mb-3">IN <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down  mr-1" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708" />
+                            </svg>+91 Enter 10 digit Mobile number</button>
+                        <button class="butt mt-3 mb-5">Get OTP</button>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="bg3">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h1 class="heading10 mt-5 mb-5">* The speaker profiles are as on the recorded date</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="bg5">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3">
+                    <img src="https://media.licdn.com/dms/image/v2/D5622AQHTOBtPzZKh0A/feedshare-shrink_800/feedshare-shrink_800/0/1685979747559?e=2147483647&v=beta&t=8sr_aLMYMGk_4ludNgOYcYSOKaJin3MT13XvHxiiweE" class="w-50 mt-5 ml-1 mb-2" />
+                    <h1 class="heading11 ml-1">Reach us</h1>
+                    <h1 class="heading11 ml-1 mt-4"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="blue" class="bi bi-envelope-fill mr-2" viewBox="0 0 16 16">
+                            <path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414zM0 4.697v7.104l5.803-3.558zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586zm3.436-.586L16 11.801V4.697z" />
+                        </svg>support@nxtwa.tech</h1>
+                </div>
+
+                <div class="col-md-3 ">
+                    <a href="">
+                        <h1 class="heading11 pt-5 mt-5 ">Quick links</h1>
+                    </a>
+                    <a href="">
+                        <h1 class="heading11 mt-3 ">Home</h1>
+                    </a>
+                    <a href="">
+                        <h1 class="heading11 mt-3 ">Academy</h1>
+                    </a>
+                    <a href="">
+                        <h1 class="heading11 mt-3 ">Intensive</h1>
+                    </a>
+                    <a href="">
+                        <h1 class="heading11 mt-3 ">Hire with us</h1>
+                    </a>
+                </div>
+
+
+                <div class="col-md-3">
+                    <a href="">
+                        <h1 class="heading11 pt-5 mt-5">Home</h1>
+                    </a>
+                    <a href="">
+                        <h1 class="heading11 mt-3 ">Academy</h1>
+                    </a>
+                    <a href="">
+                        <h1 class="heading11 mt-3 ">Intensive</h1>
+                    </a>
+                </div>
+
+
+                <div class="col-md-3">
+                    <h1 class="heading11 pt-5 mt-5 ">Payment methods</h1>
+                    <div class="d-flex flex-row ">
+                        <div>
+                            <img src="https://cdn.prod.website-files.com/5fa61cbbf0d432b3230f62b1/61f3c93dfbc8568fcb27e556_visa-icon.svg" class="w-100 mr-2" />
+                        </div>
+                        <div>
+                            <img src="https://cdn.prod.website-files.com/5fa61cbbf0d432b3230f62b1/61f3c976a29a435d3fc17f27_mastercard-icon.svg" class="w-100 ml-2" />
+                        </div>
+                        <div>
+                            <img src="https://cdn.prod.website-files.com/5fa61cbbf0d432b3230f62b1/61f3fcf36619310922216dcb_payment-method-icon3.svg" class="w-100  ml-3" />
+                        </div>
+                    </div>
+
+                    <div class="d-flex flex-row ">
+                        <div>
+                            <img src="https://cdn.prod.website-files.com/5fa61cbbf0d432b3230f62b1/61f3fcf46ba93fa0919d5828_Razor-pay-icon.svg" class="w-100 mr-2" />
+                        </div>
+                        <div>
+                            <img src="https://cdn.prod.website-files.com/5fa61cbbf0d432b3230f62b1/61f3fcf34a02bed6c7dbc750_upi-icon.svg" class="w-100 ml-2" />
+                        </div>
+                        <div>
+                            <img src="https://cdn.prod.website-files.com/5fa61cbbf0d432b3230f62b1/61f3fd566ba93f145d9d5b57_rupay-icon.svg" class="w-100  ml-3" />
+                        </div>
+                    </div>
+
+                    <h1 class="heading11 mt-4"><svg xmlns="http://www.w3.org/2000/svg" width="36" height="26" fill="currentColor" class="bi bi-geo-alt-fill mr-1" viewBox="0 0 16 16">
+                            <path d="M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10m0-7a3 3 0 1 1 0-6 3 3 0 0 1 0 6" />
+                        </svg>NxtWave, WeWork Rajapushpa Summit,
+                        Nanakramguda Rd, Financial District, Manikonda Jagir, Telangana 500032</h1>
+
+                </div>
+
+
+
+
+            </div>
+
+        </div>
+
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-2">
+                    <div class="d-flex flex-row mt-5">
+                        <div>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="36" height="26" fill="blue" class="bi bi-facebook ml-4" viewBox="0 0 16 16">
+                                <path d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951" />
+                            </svg>
+                        </div>
+                        <div>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="36" height="26" fill="pink" class="bi bi-instagram ml-2" viewBox="0 0 16 16">
+                                <path d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.9 3.9 0 0 0-1.417.923A3.9 3.9 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.9 3.9 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.9 3.9 0 0 0-.923-1.417A3.9 3.9 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599s.453.546.598.92c.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.5 2.5 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.5 2.5 0 0 1-.92-.598 2.5 2.5 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233s.008-2.388.046-3.231c.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92s.546-.453.92-.598c.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92m-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217m0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334" />
+                            </svg>
+                        </div>
+                        <div>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="36" height="26" fill="#83dfeb" class="bi bi-twitter ml-2" viewBox="0 0 16 16">
+                                <path d="M5.026 15c6.038 0 9.341-5.003 9.341-9.334q.002-.211-.006-.422A6.7 6.7 0 0 0 16 3.542a6.7 6.7 0 0 1-1.889.518 3.3 3.3 0 0 0 1.447-1.817 6.5 6.5 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.32 9.32 0 0 1-6.767-3.429 3.29 3.29 0 0 0 1.018 4.382A3.3 3.3 0 0 1 .64 6.575v.045a3.29 3.29 0 0 0 2.632 3.218 3.2 3.2 0 0 1-.865.115 3 3 0 0 1-.614-.057 3.28 3.28 0 0 0 3.067 2.277A6.6 6.6 0 0 1 .78 13.58a6 6 0 0 1-.78-.045A9.34 9.34 0 0 0 5.026 15" />
+                            </svg>
+                        </div>
+                        <div>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="36" height="26" fill="blue" class="bi bi-linkedin ml-2" viewBox="0 0 16 16">
+                                <path d="M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854zm4.943 12.248V6.169H2.542v7.225zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248S2.4 3.226 2.4 3.934c0 .694.521 1.248 1.327 1.248zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016l.016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225z" />
+                            </svg>
+                        </div>
+                        <div>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="36" height="26" fill="red" class="bi bi-youtube ml-2" viewBox="0 0 16 16">
+                                <path d="M8.051 1.999h.089c.822.003 4.987.033 6.11.335a2.01 2.01 0 0 1 1.415 1.42c.101.38.172.883.22 1.402l.01.104.022.26.008.104c.065.914.073 1.77.074 1.957v.075c-.001.194-.01 1.108-.082 2.06l-.008.105-.009.104c-.05.572-.124 1.14-.235 1.558a2.01 2.01 0 0 1-1.415 1.42c-1.16.312-5.569.334-6.18.335h-.142c-.309 0-1.587-.006-2.927-.052l-.17-.006-.087-.004-.171-.007-.171-.007c-1.11-.049-2.167-.128-2.654-.26a2.01 2.01 0 0 1-1.415-1.419c-.111-.417-.185-.986-.235-1.558L.09 9.82l-.008-.104A31 31 0 0 1 0 7.68v-.123c.002-.215.01-.958.064-1.778l.007-.103.003-.052.008-.104.022-.26.01-.104c.048-.519.119-1.023.22-1.402a2.01 2.01 0 0 1 1.415-1.42c.487-.13 1.544-.21 2.654-.26l.17-.007.172-.006.086-.003.171-.007A100 100 0 0 1 7.858 2zM6.4 5.209v4.818l4.157-2.408z" />
+                            </svg>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+
+        <div class="conatiner">
+            <div class="row">
+                <div class="col-md-3">
+                    <a href="">
+                        <h1 class="heading11 pt-5 mt-5 ml-2">Privacy Policy</h1>
+                    </a>
+                </div>
+
+                <div class="col-md-3">
+                    <a href="">
+                        <h1 class="heading11 pt-5 mt-5">Cookies policy</h1>
+                    </a>
+                </div>
+                <div class="col-md-3">
+                    <a href="">
+                        <h1 class="heading11 pt-5 mt-5">Terms and condtion</h1>
+                    </a>
+                </div>
+                <div class="col-md-3">
+                    <a href="">
+                        <h1 class="heading11 pt-5 mt-5">Grievance Redressa</h1>
+                    </a>
+                </div>
+
+
+            </div>
+        </div>
+
+    </div>

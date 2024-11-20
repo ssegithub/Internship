@@ -1,0 +1,264 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+
+.bg {
+    background-image: linear-gradient(to right, #468c9e, #468c9e, #fcfeff)
+}
+
+.heading1 {
+    font-family: 'Roboto';
+    color: white;
+    font-size: 55px;
+    font-weight: bold;
+}
+
+.span1 {
+    color: #58f565;
+    font-weight: bold;
+}
+
+.butt {
+    height: 50px;
+    width: 320px;
+    color: white;
+    background-color: blue;
+    border-radius: 7px;
+    border-width: 0px;
+
+}
+
+.butt2 {
+    height: 50px;
+    width: 320px;
+    color: white;
+    background-color: transparent;
+    border-radius: 7px;
+    border-width: 2px;
+    border-color: white;
+
+}
+
+.heading2 {
+    font-family: 'Roboto';
+    color: white;
+    font-size: 20px;
+}
+
+.span2 {
+    color: #58f565;
+    font-weight: bold;
+}
+
+.span3 {
+    text-decoration: line-through;
+
+}
+
+.bg2 {
+    background-color: white;
+
+}
+
+.heading3 {
+    color: #20293b;
+    font-family: 'Roboto';
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.bg3 {
+
+    background-image: linear-gradient(to right, #1a1f29, #1a1f29, #10b576);
+}
+
+.heading4 {
+    color: white;
+    font-family: 'Roboto';
+    text-align: center;
+    font-size: 37px;
+    font-weight: bold;
+}
+
+.heading5 {
+    color: #c5c9c8;
+    font-family: 'Roboto';
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.butt3 {
+    height: 35px;
+    width: 110px;
+    color: black;
+    background-color: white;
+    border-radius: 15px;
+    border-width: 0px;
+    font-size: 15px;
+
+}
+
+.butt4 {
+    height: 35px;
+    width: 80px;
+    color: white;
+    background-color: transparent;
+    border-radius: 15px;
+    border-width: 1px;
+    border-color: white;
+}
+
+
+.butt5 {
+    height: 35px;
+    width: 110px;
+    color: white;
+    background-color: transparent;
+    border-radius: 15px;
+    border-width: 2px;
+    border-color: white;
+
+}
+
+.cen {
+    text-align: center;
+}
+
+.card {
+    background-color: #202938;
+
+}
+
+.card-title {
+    color: white;
+    font-size: 15px;
+    font-family: 'Roboto';
+
+}
+
+.hh {
+    color: #a5a8ad;
+    font-size: 15px;
+}
+
+.hh2 {
+    font-family: 'Roboto';
+    color: #a5a8ad;
+    font-size: 15px;
+
+}
+
+.hh3 {
+    font-family: 'Roboto';
+    color: #a5a8ad;
+    font-size: 13px;
+}
+
+.hh4 {
+    font-size: 15px;
+}
+
+.bg4 {
+    background-color: #253042;
+}
+
+.butt6 {
+    height: 50px;
+    width: 300px;
+    color: orange;
+    border-radius: 15px;
+    border-width: 2px;
+    border-color: orange;
+    background-color: transparent;
+    font-weight: bold;
+}
+
+.hh5 {
+    font-family: 'Roboto';
+    color: #cbd1c5;
+    font-size: 22px;
+    font-weight: bold;
+
+}
+
+.img1 {
+    height: 50px;
+}
+
+.hh6 {
+    font-family: 'Roboto';
+    color: #cbd1c5;
+    font-size: 12px;
+
+
+}
+
+.card1 {
+    background-color: #202938;
+    border-radius: 15px;
+
+
+}
+
+.heading6 {
+
+    color: white;
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-size: 35px;
+    text-align: left;
+}
+
+.heading7 {
+    color: white;
+    font-size: 27px;
+    font-family: 'Roboto';
+    font-weight: 500;
+
+}
+
+.heading8 {
+
+
+    color: white;
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-size: 35px;
+
+}
+
+.heading9 {
+    font-family: 'Roboto';
+    color: white;
+    font-size: 20px;
+}
+
+.butt7 {
+    height: 45px;
+    width: 320px;
+    color: white;
+    background-color: #a4a6a5;
+    border-radius: 7px;
+    border-width: 0px;
+    text-align: left;
+
+}
+
+.heading10 {
+    font-family: 'Roboto';
+    color: white;
+    font-size: 17px;
+}
+
+.bg5 {
+    background-color: #000000;
+}
+
+.heading11 {
+
+    font-family: 'Roboto';
+    color: #C0C0C0;
+    font-size: 23px;
+}
